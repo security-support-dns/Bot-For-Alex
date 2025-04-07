@@ -1,0 +1,80 @@
+[
+  {
+    "action": "move",
+    "x": 100,
+    "y": 200,
+    "description": "Move the mouse to coordinates (100, 200)."
+  },
+  {
+    "action": "click",
+    "button": "left",
+    "description": "Perform a left mouse click."
+  },
+  {
+    "action": "drag",
+    "startX": 100,
+    "startY": 200,
+    "endX": 300,
+    "endY": 400,
+    "description": "Click and drag the mouse from (100, 200) to (300, 400)."
+  },
+  {
+    "action": "move",
+    "x": 500,
+    "y": 300,
+    "description": "Move the mouse to coordinates (500, 300)."
+  },
+  {
+    "action": "click",
+    "button": "right",
+    "description": "Perform a right mouse click."
+  },
+  {
+    "action": "move",
+    "x": 300,
+    "y": 400,
+    "description": "Move the mouse to the button on the website."
+  },
+  {
+    "action": "click",
+    "button": "left",
+    "description": "Click the button to reveal the phone number."
+  },
+  {
+    "action": "move",
+    "x": 350,
+    "y": 450,
+    "description": "Move the mouse to the phone number field."
+  },
+  {
+    "action": "click",
+    "button": "left",
+    "description": "Click the phone number field to select it."
+  },
+  {
+    "action": "hotkey",
+    "keys": ["ctrl", "c"],
+    "description": "Copy the phone number to the clipboard."
+  },
+  {
+    "action": "move",
+    "x": 500,
+    "y": 500,
+    "description": "Move the mouse to the sales call app input field."
+  },
+  {
+    "action": "click",
+    "button": "left",
+    "description": "Click the input field in the sales call app."
+  },
+  {
+    "action": "hotkey",
+    "keys": ["ctrl", "v"],
+    "description": "Paste the phone number into the sales call app."
+  },
+  {
+    "action": "click",
+    "button": "left",
+    "description": "Click the 'Call' button in the sales call app."
+  }
+]
