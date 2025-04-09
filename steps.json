@@ -1,0 +1,38 @@
+[
+    {
+        "action": "search_and_click",
+        "target": "call_button"
+    },
+    {
+        "action": "search_and_click",
+        "target": "call_button_secondary"
+    },
+    {
+        "action": "wait",
+        "duration": 7
+    },
+    {
+        "action": "search_and_click",
+        "target": "end_call"
+    },
+    {
+        "action": "search_and_click",
+        "target": "onlysales_icon"
+    },
+    {
+        "action": "search_and_click",
+        "target": "onlysales_send"
+    },
+    {
+        "action": "wait",
+        "duration": 4
+    },
+    {
+        "action": "search_and_click",
+        "target": "nc_default"
+    },
+    {
+        "action": "wait",
+        "duration": 9
+    }
+]
