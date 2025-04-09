@@ -17,7 +17,7 @@ python -m ensurepip --default-pip
 
 To run the program go to the directory where the program was download example:
 
-cd /Desktop/Bot-For-Alex
+cd /Desktop\Bot-For-Alex-main
 
 Then run the program with:
 
