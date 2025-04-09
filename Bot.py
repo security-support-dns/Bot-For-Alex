@@ -49,12 +49,12 @@ steps = load_steps()
 
 # Dictionary containing coordinates for each button or element
 coords = {
-    "call_button": (359, 395),        # Primary click
-    "call_button_secondary": (562, 431),  # Secondary click
-    "end_call": (1596, 732),
-    "onlysales_icon": (981, 106),
-    "onlysales_send": (876, 480),
-    "nc_default": (1142, 283)
+    "call_button": (652, 718),        # Primary click
+    "call_button_secondary": (652, 776),  # Secondary click
+    "end_call": (3762, 592),
+    "onlysales_icon": (1490, 116),
+    "onlysales_send": (1296, 892),
+    "nc_default": (1770, 494)
 }
 
 # === MAIN LOOP === #
