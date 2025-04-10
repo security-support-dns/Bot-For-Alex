@@ -32,6 +32,10 @@
         "target": "nc_default"
     },
     {
+        "action": "search_and_click",
+        "target": "nc_default"
+    },
+    {
         "action": "wait",
         "duration": 9
     }
